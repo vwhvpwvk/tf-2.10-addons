@@ -41,7 +41,7 @@ Matching verison of TF-addons for TensorFlow-2.10 is [v.0.18.0](https://github.c
 
 This repo aims to build upon the v.0.18.0 and add necessary functions as we go, for painless windows-native TensorFlow user experience.
 
-We assum that miniconda3 is installed in windows, and TensorFlow 2.10.1 installed following the [official TensorFlow guide]().
+We assum that miniconda3 is installed in windows, and TensorFlow 2.10.1 installed following the [official TensorFlow guide](https://www.tensorflow.org/install/pip#windows-native).
 
 In Windows PowerShell, within the TensorFlow-2.10 conda environment:
 
