@@ -75,7 +75,7 @@ tfa
 
 This github repo is meant to build against tf-2.10. Please use compatible versions for other tf version.
 
-#### Installing from Source (From origina)
+#### Installing from Source (From original)
 
 There is installing from source option, which I have not tried yet. It seems like the pip install within github repo works. 
 
