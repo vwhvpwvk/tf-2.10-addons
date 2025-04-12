@@ -6,34 +6,6 @@ This is a fork to the depreciated "TensorFlow-Addons" library. This fork is mean
 
 Pleaes refer to [README_orig.md](https://github.com/vwhvpwvk/tf-2.10-addons/README_orig.md) for the original README. 
 
-**TensorFlow Addons** is a repository of contributions that conform to
-well-established API patterns, but implement new functionality
-not available in core TensorFlow. TensorFlow natively supports
-a large number of operators, layers, metrics, losses, and optimizers.
-However, in a fast moving field like ML, there are many interesting new
-developments that cannot be integrated into core TensorFlow
-(because their broad applicability is not yet clear, or it is mostly
- used by a smaller subset of the community).
-
-## Addons Subpackages
-
-* [tfa.activations](https://www.tensorflow.org/addons/api_docs/python/tfa/activations) 
-* [tfa.callbacks](https://www.tensorflow.org/addons/api_docs/python/tfa/callbacks) 
-* [tfa.image](https://www.tensorflow.org/addons/api_docs/python/tfa/image) 
-* [tfa.layers](https://www.tensorflow.org/addons/api_docs/python/tfa/layers)
-* [tfa.losses](https://www.tensorflow.org/addons/api_docs/python/tfa/losses)
-* [tfa.metrics](https://www.tensorflow.org/addons/api_docs/python/tfa/metrics) 
-* [tfa.optimizers](https://www.tensorflow.org/addons/api_docs/python/tfa/optimizers) 
-* [tfa.rnn](https://www.tensorflow.org/addons/api_docs/python/tfa/rnn) 
-* [tfa.seq2seq](https://www.tensorflow.org/addons/api_docs/python/tfa/seq2seq) 
-* [tfa.text](https://www.tensorflow.org/addons/api_docs/python/tfa/text) 
-
-## Maintainership
-The maintainers of TensorFlow Addons can be found in the [CODEOWNERS](.github/CODEOWNERS) file of the repo. This file 
-is parsed and pull requests will automatically tag the owners using a bot. If you would
-like to maintain something, please feel free to submit a PR. We encourage multiple 
-owners for all submodules.
-
 ## Installation
 #### v.0.18.0
 
